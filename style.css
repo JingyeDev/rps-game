@@ -1,0 +1,25 @@
+#buttons button {
+    width: 7rem;
+    height: 7rem;
+    text-align: center;
+    font-size: 3rem;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+h1 {
+    text-align: center;
+}
